@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Wairimu5
+- 👀 I’m interested in ... hacking and software development
+- 🌱 I’m currently learning ... to be a fullstack engineer
+- 💞️ I’m looking to collaborate on ... anything related to coding
+- 📫 How to reach me ... innonjue@gmail.com
